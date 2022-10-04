@@ -1,0 +1,8 @@
+{
+   "conf-1": {
+      "app": {
+         "port": 8080
+      },
+      "url": "localhost"
+   }
+}
